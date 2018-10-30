@@ -1,5 +1,0 @@
-import numpy as np
-import matplotlib as plt
-import sklearn as sc
-
-print("Hello Machine learning")
